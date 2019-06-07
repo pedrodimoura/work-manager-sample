@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Work Manager Sample</string>
+    <string name="one_time_work">One Time Work</string>
+    <string name="one_time_work_with_constraints">One Time Work with Constraints</string>
+    <string name="periodic_work">Periodic Work</string>
+    <string name="periodic_work_with_constraints">Periodic Work with Constraints</string>
+    <string name="chained_work">Chained Work</string>
+</resources>
